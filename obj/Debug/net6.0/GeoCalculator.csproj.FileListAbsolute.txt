@@ -1,0 +1,11 @@
+D:\repos\MaceusStartup\GeoCalculator\bin\Debug\net6.0\GeoCalculator.deps.json
+D:\repos\MaceusStartup\GeoCalculator\bin\Debug\net6.0\GeoCalculator.dll
+D:\repos\MaceusStartup\GeoCalculator\bin\Debug\net6.0\GeoCalculator.pdb
+D:\repos\MaceusStartup\GeoCalculator\obj\Debug\net6.0\GeoCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\MaceusStartup\GeoCalculator\obj\Debug\net6.0\GeoCalculator.AssemblyInfoInputs.cache
+D:\repos\MaceusStartup\GeoCalculator\obj\Debug\net6.0\GeoCalculator.AssemblyInfo.cs
+D:\repos\MaceusStartup\GeoCalculator\obj\Debug\net6.0\GeoCalculator.csproj.CoreCompileInputs.cache
+D:\repos\MaceusStartup\GeoCalculator\obj\Debug\net6.0\GeoCalculator.dll
+D:\repos\MaceusStartup\GeoCalculator\obj\Debug\net6.0\refint\GeoCalculator.dll
+D:\repos\MaceusStartup\GeoCalculator\obj\Debug\net6.0\GeoCalculator.pdb
+D:\repos\MaceusStartup\GeoCalculator\obj\Debug\net6.0\ref\GeoCalculator.dll
